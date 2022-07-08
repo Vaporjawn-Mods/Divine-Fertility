@@ -1,0 +1,22 @@
+perfectfertility = {
+	opposites = {
+		infertile
+		fecund
+	}
+	years_of_fertility = 9999
+	fertility = 9999
+	physical = yes
+	spouse_opinion = 9999
+	genetic = yes
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 100
+	health = 1
+	inherit_chance = 100
+	good = yes
+
+
+	name = "Divine Fertility"
+
+	desc = "Divine Fertility"
+		
+}
