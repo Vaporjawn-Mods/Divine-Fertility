@@ -1,0 +1,41 @@
+grant_divine_fertility = {
+	category = interaction_category_diplomacy
+	desc = "daddy_pika_cheat_menu_desc" # need to add a description
+	common_interaction = yes
+	auto_accept = yes
+	use_diplomatic_range = no
+	ignores_pending_interaction_block = yes
+	ai_will_do = 0
+
+
+	is_shown = {
+		scope:recipient = {
+			has_trait = divine_Fertility
+		}
+	}
+	on_send = {
+		scope:recipient = {
+			add_trait = divine_Fertility
+		}
+	}
+}
+
+remove_divine_fertility = {
+	category = interaction_category_diplomacy
+	desc = "daddy_pika_cheat_menu_desc" # need to add a description
+	common_interaction = yes
+	auto_accept = yes
+	use_diplomatic_range = no
+	ignores_pending_interaction_block = yes
+
+	is_shown = {
+		scope:recipient = {
+			has_trait = divine_Fertility
+		}
+	}
+	on_send = {
+		scope:recipient = {
+			remove_trait = divine_Fertility
+		}
+	}
+}

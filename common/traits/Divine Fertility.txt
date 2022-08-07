@@ -1,4 +1,4 @@
-perfectfertility = {
+divine_Fertility = {
 	opposites = {
 		infertile
 		fecund
@@ -9,7 +9,7 @@ perfectfertility = {
 	spouse_opinion = 9999
 	genetic = yes
 	shown_in_ruler_designer = yes
-	ruler_designer_cost = 100
+	ruler_designer_cost = 99
 	health = 1
 	inherit_chance = 100
 	good = yes
@@ -17,6 +17,6 @@ perfectfertility = {
 
 	name = "Divine Fertility"
 
-	desc = "Divine Fertility"
+	desc = "Divine Fertility" # need to add a description, so that it's a variaable
 		
 }
