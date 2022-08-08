@@ -1,4 +1,5 @@
 divine_Fertility = {
+	index = 420
 	opposites = {
 		infertile
 		fecund
@@ -14,9 +15,7 @@ divine_Fertility = {
 	inherit_chance = 100
 	good = yes
 
-
 	name = "Divine Fertility"
-
-	desc = "Divine Fertility" # need to add a description, so that it's a variaable
+	desc = "Ensure your dynasty" # need to add a description, so that it's a variaable
 		
 }

@@ -1,11 +1,14 @@
 grant_divine_fertility = {
+	
+	notification_text = "Divine Fertility"
 	category = interaction_category_diplomacy
-	desc = "daddy_pika_cheat_menu_desc" # need to add a description
+	desc = "Grant this character divine fertility"
 	common_interaction = yes
 	auto_accept = yes
 	use_diplomatic_range = no
 	ignores_pending_interaction_block = yes
 	ai_will_do = 0
+	# icon = "../../gfx/interface/icons/traits/divine_Fertility.dds"
 
 	is_shown = {
 		scope:recipient = {
@@ -24,7 +27,7 @@ grant_divine_fertility = {
 
 remove_divine_fertility = {
 	category = interaction_category_diplomacy
-	desc = "daddy_pika_cheat_menu_desc" # need to add a description
+	desc = "Remove this character's divine fertility"
 	common_interaction = yes
 	auto_accept = yes
 	use_diplomatic_range = no
