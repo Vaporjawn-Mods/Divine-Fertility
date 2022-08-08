@@ -7,12 +7,14 @@ grant_divine_fertility = {
 	ignores_pending_interaction_block = yes
 	ai_will_do = 0
 
-
 	is_shown = {
 		scope:recipient = {
-			has_trait = divine_Fertility
+			NOT = {
+				has_trait = divine_Fertility
+			}
 		}
 	}
+	
 	on_send = {
 		scope:recipient = {
 			add_trait = divine_Fertility
