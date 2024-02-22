@@ -16,6 +16,6 @@ divine_Fertility = {
 	good = yes
 
 	name = "Divine Fertility"
-	desc = "Ensure your dynasty" # need to add a description, so that it's a variaable
-		
+	# desc = "Ensure your dynasty" # need to add a description, so that it's a variaable
+
 }
