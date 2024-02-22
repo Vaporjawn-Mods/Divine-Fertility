@@ -1,5 +1,5 @@
 grant_divine_fertility = {
-	
+
 	notification_text = "Divine Fertility"
 	category = interaction_category_diplomacy
 	desc = "Grant this character divine fertility"
@@ -7,7 +7,9 @@ grant_divine_fertility = {
 	auto_accept = yes
 	use_diplomatic_range = no
 	ignores_pending_interaction_block = yes
-	ai_will_do = 0
+	ai_will_do = {
+		base = 100
+	}
 	# icon = "../../gfx/interface/icons/traits/divine_Fertility.dds"
 
 	is_shown = {
@@ -17,7 +19,7 @@ grant_divine_fertility = {
 			}
 		}
 	}
-	
+
 	on_send = {
 		scope:recipient = {
 			add_trait = divine_Fertility
