@@ -20,7 +20,7 @@ In the [b]Diplomacy[/b] category of the character interaction menu:
 
 [h2]Compatibility[/h2]
 [list]
-[*] Updated for Crusader Kings III [b]1.20 "Crozier"[/b]
+[*] Updated for Crusader Kings III [b]1.20 Crozier[/b]
 [*] Adds new files only and overrides nothing from the base game
 [*] Translated into English, French, German, Spanish, Russian, Polish, Korean, Simplified Chinese and Japanese
 [/list]
