@@ -1,0 +1,8 @@
+﻿l_english:
+ trait_divine_Fertility:0 "Divine Fertility"
+ trait_divine_Fertility_desc:0 "Blessed by the divine, this character is endlessly fertile and adored by their spouse. The blessing is always passed on to their children."
+ grant_divine_fertility:0 "Grant Divine Fertility"
+ grant_divine_fertility_desc:0 "Grant this character divine fertility"
+ grant_divine_fertility_notification:0 "Divine Fertility"
+ remove_divine_fertility:0 "Remove Divine Fertility"
+ remove_divine_fertility_desc:0 "Remove this character's divine fertility"

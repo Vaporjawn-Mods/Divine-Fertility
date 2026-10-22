@@ -1,4 +1,4 @@
-version="1.13.1"
+version="1.20.1.2"
 tags={
 	"Character Focuses"
 	"Utilities"
@@ -6,5 +6,5 @@ tags={
 	"Fixes"
 }
 name="Divine Fertility"
-supported_version="1.13.x"
+supported_version="1.20.*"
 remote_file_id="2832407699"

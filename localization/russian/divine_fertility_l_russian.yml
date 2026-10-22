@@ -1,0 +1,8 @@
+﻿l_russian:
+ trait_divine_Fertility:0 "Божественная плодовитость"
+ trait_divine_Fertility_desc:0 "Благословлённый свыше, этот персонаж бесконечно плодовит и обожаем супругом. Благословение всегда передаётся его детям."
+ grant_divine_fertility:0 "Даровать божественную плодовитость"
+ grant_divine_fertility_desc:0 "Даровать этому персонажу божественную плодовитость"
+ grant_divine_fertility_notification:0 "Божественная плодовитость"
+ remove_divine_fertility:0 "Лишить божественной плодовитости"
+ remove_divine_fertility_desc:0 "Лишить этого персонажа божественной плодовитости"

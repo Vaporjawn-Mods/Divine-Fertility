@@ -1,0 +1,6 @@
+Updated for Crusader Kings III 1.20.1.2 (Crozier).
+- The trait and both diplomacy interactions now use localization (they showed untranslated text before).
+- The trait no longer sets both genetic and an inheritance chance (an error in current versions); it is now simply always inherited (100%).
+- Removed the obsolete trait index. Files are saved as UTF-8 with BOM.
+- Added translations: French, German, Spanish, Russian, Polish, Korean, Simplified Chinese, Japanese.
+- New preview image and a full description. The stats are unchanged.

@@ -1,0 +1,8 @@
+﻿l_simp_chinese:
+ trait_divine_Fertility:0 "神圣生育力"
+ trait_divine_Fertility_desc:0 "受神明祝福的人拥有无尽的生育力，并深受配偶爱慕。这份祝福总会传给他们的子女。"
+ grant_divine_fertility:0 "赐予神圣生育力"
+ grant_divine_fertility_desc:0 "赐予此人神圣生育力"
+ grant_divine_fertility_notification:0 "神圣生育力"
+ remove_divine_fertility:0 "移除神圣生育力"
+ remove_divine_fertility_desc:0 "移除此人的神圣生育力"

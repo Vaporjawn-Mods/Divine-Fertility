@@ -1,0 +1,8 @@
+﻿l_polish:
+ trait_divine_Fertility:0 "Boska płodność"
+ trait_divine_Fertility_desc:0 "Błogosławiona przez bóstwa, ta postać jest nieskończenie płodna i uwielbiana przez małżonka. Błogosławieństwo zawsze przechodzi na jej dzieci."
+ grant_divine_fertility:0 "Obdarz boską płodnością"
+ grant_divine_fertility_desc:0 "Obdarz tę postać boską płodnością"
+ grant_divine_fertility_notification:0 "Boska płodność"
+ remove_divine_fertility:0 "Odbierz boską płodność"
+ remove_divine_fertility_desc:0 "Odbierz tej postaci boską płodność"

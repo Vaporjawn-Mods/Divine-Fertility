@@ -1,0 +1,8 @@
+﻿l_german:
+ trait_divine_Fertility:0 "Göttliche Fruchtbarkeit"
+ trait_divine_Fertility_desc:0 "Vom Göttlichen gesegnet, ist dieser Charakter unendlich fruchtbar und wird von seinem Ehepartner angebetet. Der Segen wird stets an die Kinder weitergegeben."
+ grant_divine_fertility:0 "Göttliche Fruchtbarkeit gewähren"
+ grant_divine_fertility_desc:0 "Diesem Charakter göttliche Fruchtbarkeit gewähren"
+ grant_divine_fertility_notification:0 "Göttliche Fruchtbarkeit"
+ remove_divine_fertility:0 "Göttliche Fruchtbarkeit entziehen"
+ remove_divine_fertility_desc:0 "Die göttliche Fruchtbarkeit dieses Charakters entziehen"

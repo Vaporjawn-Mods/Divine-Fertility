@@ -1,0 +1,8 @@
+﻿l_korean:
+ trait_divine_Fertility:0 "신성한 다산"
+ trait_divine_Fertility_desc:0 "신성한 축복을 받은 이 인물은 끝없이 다산하며 배우자에게 사랑받습니다. 이 축복은 항상 자녀에게 전해집니다."
+ grant_divine_fertility:0 "신성한 다산 부여"
+ grant_divine_fertility_desc:0 "이 인물에게 신성한 다산을 부여합니다"
+ grant_divine_fertility_notification:0 "신성한 다산"
+ remove_divine_fertility:0 "신성한 다산 제거"
+ remove_divine_fertility_desc:0 "이 인물의 신성한 다산을 제거합니다"

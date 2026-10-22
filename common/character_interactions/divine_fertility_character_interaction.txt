@@ -1,16 +1,15 @@
-grant_divine_fertility = {
-
-	notification_text = "Divine Fertility"
+﻿grant_divine_fertility = {
+	notification_text = grant_divine_fertility_notification
 	category = interaction_category_diplomacy
-	desc = "Grant this character divine fertility"
+	desc = grant_divine_fertility_desc
 	common_interaction = yes
 	auto_accept = yes
 	use_diplomatic_range = no
 	ignores_pending_interaction_block = yes
+
 	ai_will_do = {
 		base = 100
 	}
-	# icon = "../../gfx/interface/icons/traits/divine_Fertility.dds"
 
 	is_shown = {
 		scope:recipient = {
@@ -29,7 +28,7 @@ grant_divine_fertility = {
 
 remove_divine_fertility = {
 	category = interaction_category_diplomacy
-	desc = "Remove this character's divine fertility"
+	desc = remove_divine_fertility_desc
 	common_interaction = yes
 	auto_accept = yes
 	use_diplomatic_range = no
@@ -40,6 +39,7 @@ remove_divine_fertility = {
 			has_trait = divine_Fertility
 		}
 	}
+
 	on_send = {
 		scope:recipient = {
 			remove_trait = divine_Fertility

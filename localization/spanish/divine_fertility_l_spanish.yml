@@ -1,0 +1,8 @@
+﻿l_spanish:
+ trait_divine_Fertility:0 "Fertilidad divina"
+ trait_divine_Fertility_desc:0 "Bendecido por lo divino, este personaje es infinitamente fértil y adorado por su cónyuge. La bendición siempre se transmite a sus hijos."
+ grant_divine_fertility:0 "Conceder fertilidad divina"
+ grant_divine_fertility_desc:0 "Conceder fertilidad divina a este personaje"
+ grant_divine_fertility_notification:0 "Fertilidad divina"
+ remove_divine_fertility:0 "Retirar la fertilidad divina"
+ remove_divine_fertility_desc:0 "Retirar la fertilidad divina de este personaje"

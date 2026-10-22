@@ -1,0 +1,29 @@
+[h1]Divine Fertility[/h1]
+Adds the [b]Divine Fertility[/b] trait and two diplomacy interactions to grant or remove it. A character with the trait is blessed with limitless fertility and a spouse who adores them, and passes the blessing on to every child.
+
+[h2]The trait[/h2]
+[list]
+[*] [b]Fertility[/b] +9999 and [b]years of fertility[/b] +9999, so age no longer ends fertility
+[*] [b]Spouse opinion[/b] +9999
+[*] [b]Health[/b] +1
+[*] Opposite of [b]Infertile[/b] and [b]Fecund[/b]
+[*] [b]Always inherited[/b]: children of a parent with the trait always get it (100%)
+[*] Marked as a physical, good trait; available in the ruler designer for [b]99 points[/b]
+[/list]
+
+[h2]Interactions[/h2]
+In the [b]Diplomacy[/b] category of the character interaction menu:
+[list]
+[*] [b]Grant Divine Fertility[/b]: gives the trait to any character, instantly
+[*] [b]Remove Divine Fertility[/b]: takes it away again, instantly
+[/list]
+
+[h2]Compatibility[/h2]
+[list]
+[*] Updated for Crusader Kings III [b]1.20 "Crozier"[/b]
+[*] Adds new files only and overrides nothing from the base game
+[*] Translated into English, French, German, Spanish, Russian, Polish, Korean, Simplified Chinese and Japanese
+[/list]
+
+[h2]Source[/h2]
+https://github.com/Vaporjawn-Mods/Divine-Fertility

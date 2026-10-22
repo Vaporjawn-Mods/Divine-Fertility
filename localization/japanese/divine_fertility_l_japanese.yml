@@ -1,0 +1,8 @@
+﻿l_japanese:
+ trait_divine_Fertility:0 "神聖な繁殖力"
+ trait_divine_Fertility_desc:0 "神に祝福されたこの人物は尽きることのない繁殖力を持ち、配偶者から深く慕われます。この祝福は必ず子供に受け継がれます。"
+ grant_divine_fertility:0 "神聖な繁殖力を授ける"
+ grant_divine_fertility_desc:0 "この人物に神聖な繁殖力を授けます"
+ grant_divine_fertility_notification:0 "神聖な繁殖力"
+ remove_divine_fertility:0 "神聖な繁殖力を取り除く"
+ remove_divine_fertility_desc:0 "この人物の神聖な繁殖力を取り除きます"

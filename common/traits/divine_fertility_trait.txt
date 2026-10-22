@@ -1,0 +1,24 @@
+﻿divine_Fertility = {
+	category = fame
+	opposites = {
+		infertile
+		fecund
+	}
+
+	# Fertility
+	fertility = 9999
+	years_of_fertility = 9999
+
+	# Relationships and health
+	spouse_opinion = 9999
+	health = 1
+
+	# Ruler designer
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 99
+
+	# Always passed on to children (a trait cannot be both genetic and have an inheritance chance)
+	inherit_chance = 100
+	physical = yes
+	good = yes
+}
